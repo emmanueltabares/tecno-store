@@ -1,6 +1,6 @@
 import React from "react";
 import CartWidget from "./CartWidget";
-import cartWidget from "../css/cartWidget.css"
+import "../css/cartWidget.css";
 
 const NavBar = () => {
     return (

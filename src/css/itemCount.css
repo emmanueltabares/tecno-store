@@ -1,0 +1,17 @@
+.card {
+    margin: 20px;
+    width: 20%;
+    text-align: center;
+}
+
+.btn-count {
+    margin: 6px;
+}
+
+.btn-on-add {
+    width: 100%;
+}
+
+.input-counter {
+    font-size: 15px;
+}
