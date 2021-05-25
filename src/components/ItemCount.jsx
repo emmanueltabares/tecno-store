@@ -15,12 +15,6 @@ const ItemCount = ({stock, initial, onAdd}) => {
 
     }
 
-    onAdd = (value) => {
-        console.log(`Agregar al carrito ${value} Notebooks`)
-    }
-
-
-
   return (
     <>
         <div class="card">
