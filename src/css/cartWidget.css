@@ -1,0 +1,10 @@
+.nav-widgets {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: right;
+}
+
+.cart-widget {
+    list-style-type: none;
+}
