@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
-import Item from "./Item";
+import ItemDetail from "./ItemDetail";
 
 const articles = [{
     id: 1,
@@ -31,7 +31,7 @@ const articles = [{
     price: 140.000
 }]
 
-export default function ItemList() {
+export default function ItemDetailContainer() {
 
 
     const [products, setProducts] = useState([]);
@@ -58,7 +58,7 @@ export default function ItemList() {
     return (
         <div>
             {products?.map((product) => {
-                <Item
+                <ItemDetail
                     key={product.id}
                     title={product.title} 
                     description={product.description}
