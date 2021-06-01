@@ -1,0 +1,110 @@
+Memoria RAM: 8 GB
+
+Tamaño de la pantalla: 15.6 "
+
+Tipo de resolución: Full HD
+Características generales
+Marca
+Dell
+Línea
+Inspiron
+Modelo
+5593
+Color
+Platinum silver
+Almacenamiento
+Capacidad del SSD
+256 GB
+Interface del SSD
+PCIe
+Procesador
+Tarjeta gráfica
+Intel UHD Graphics
+Marca del procesador
+Intel
+Línea del procesador
+Core i5
+Modelo del procesador
+1035G1
+Cantidad de núcleos
+4
+Velocidad del procesador
+3.6 GHz
+Conectividad
+Puertos de video
+HDMI
+Tipos de puertos USB
+2.0, 3.1
+Cantidad de ranuras para la memoria RAM
+2
+Cantidad de puertos USB
+3
+Con USB
+Sí
+Con Wi-Fi
+Sí
+Con HDMI
+Sí
+Con Bluetooth
+Sí
+Con salida para auriculares
+Sí
+Con puerto ethernet
+Sí
+Con lector de tarjeta de memoria
+Sí
+Memoria
+Memoria RAM
+8 GB
+Tipo de memoria RAM
+DDR4
+Velocidad de la memoria RAM
+2666 MHz
+Capacidad máxima soportada de la memoria RAM
+16 GB
+Pantalla
+Resolución de la pantalla
+1920 px x 1080 px
+Tipo de resolución
+Full HD
+Tamaño de la pantalla
+15.6 "
+Relación de aspecto
+16:9
+Tipo de pantalla
+LED
+Con pantalla antirreflejo
+Sí
+Sistema operativo
+Nombre del sistema operativo
+Windows
+Versión del sistema operativo
+10
+Edición del sistema operativo
+Home
+Batería
+Tipo de batería
+Ion de litio
+Peso y dimensiones
+Peso
+1.83 kg
+Ancho
+363.96 mm
+Profundidad
+249 mm
+Altura
+19.9 mm
+Otros
+Cantidad de parlantes
+2
+Con micrófono
+Sí
+Con pad numérico
+Sí
+Con teclado retroiluminado
+Sí
+Cámara
+Resolución de la cámara web
+1 Mpx
+Con cámara web
+Sí

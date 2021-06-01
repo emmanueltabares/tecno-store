@@ -1,0 +1,110 @@
+Memoria RAM: 8 GB
+
+Tamaño de la pantalla: 13.3 "
+
+Tipo de resolución: HD
+
+Duración de la batería: 12 h
+Características generales
+Marca
+Apple
+Línea
+MacBook Air
+Modelo
+A1466
+Color
+Silver
+Modelo detallado
+MQD32LL/A
+Pantalla
+Resolución de la pantalla
+1440 px x 900 px
+Tipo de resolución
+HD
+Tamaño de la pantalla
+13.3 "
+Relación de aspecto
+16:9
+Tipo de pantalla
+LED
+Con retina display
+Sí
+Sistema operativo
+Nombre del sistema operativo
+macOS
+Versión del sistema operativo
+Sierra
+Edición del sistema operativo
+10
+Batería
+Tipo de batería
+Polímero de litio
+Duración de la batería
+12 h
+Peso y dimensiones
+Peso
+1.3 kg
+Ancho
+325 mm
+Profundidad
+227 mm
+Altura
+17 mm
+Otros
+Modos de sonido
+Stereo
+Cantidad de parlantes
+2
+Con micrófono
+Sí
+Con teclado retroiluminado
+Sí
+Memoria
+Memoria RAM
+8 GB
+Tipo de memoria RAM
+DDR3
+Velocidad de la memoria RAM
+1600 MHz
+Capacidad máxima soportada de la memoria RAM
+8 GB
+Almacenamiento
+Capacidad del SSD
+128 GB
+Interface del SSD
+PCIe
+Procesador
+Tarjeta gráfica
+Intel HD Graphics 6000
+Marca del procesador
+Intel
+Línea del procesador
+Core i5
+Modelo del procesador
+5350U
+Cantidad de núcleos
+2
+Velocidad del procesador
+2.9 GHz
+Conectividad
+Puertos de video
+Thunderbolt 3
+Tipos de puertos USB
+3.0
+Cantidad de puertos USB
+3
+Con USB
+Sí
+Con Wi-Fi
+Sí
+Con Bluetooth
+Sí
+Con salida para auriculares
+Sí
+Con lector de tarjeta de memoria
+Sí
+Cámara
+Resolución de la cámara web
+1 Mpx
+Con cámara web
+Sí

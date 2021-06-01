@@ -1,0 +1,101 @@
+Memoria RAM: 4 GB
+
+Tamaño de la pantalla: 14 "
+
+Tipo de resolución: HD
+
+Duración de la batería: 8 h
+Características generales
+Marca
+Asus
+Línea
+VivoBook
+Modelo
+E410MA
+Pantalla
+Resolución de la pantalla
+1366 px x 768 px
+Frecuencia de actualización de la pantalla
+60 Hz
+Tipo de resolución
+HD
+Tamaño de la pantalla
+14 "
+Tipo de pantalla
+LED
+Con pantalla antirreflejo
+Sí
+Conectividad
+Puertos de video
+HDMI
+Tipos de puertos USB
+2.0,3.1,C
+Cantidad de puertos USB
+3
+Con USB
+Sí
+Con Wi-Fi
+Sí
+Con HDMI
+Sí
+Con Bluetooth
+Sí
+Con salida para auriculares
+Sí
+Otros
+Modos de sonido
+Stereo
+Cantidad de parlantes
+2
+Con micrófono
+Sí
+Memoria
+Memoria RAM
+4 GB
+Tipo de memoria RAM
+DDR4
+Almacenamiento
+Capacidad del disco rígido
+64 GB
+Capacidad del SSD
+64 GB
+Procesador
+Tarjeta gráfica
+Intel UHD Graphics 600
+Marca del procesador
+Intel
+Línea del procesador
+Celeron N4020
+Sistema operativo
+Nombre del sistema operativo
+Windows
+Versión del sistema operativo
+10
+Edición del sistema operativo
+Home
+Batería
+Tipo de batería
+Ion de litio
+Duración de la batería
+8 h
+Peso y dimensiones
+Peso
+1.3 kg
+Ancho
+325 mm
+Profundidad
+217 mm
+Altura
+18.4 mm
+Especificaciones
+Es ultrabook
+No
+Es 2 en 1
+No
+Es gamer
+No
+Cámara
+Resolución de la cámara web
+0.3 Mpx
+Con cámara web
+Sí

@@ -1,14 +1,26 @@
 import React from "react";
+import "../css/itemDetail.css";
 
-const ItemDetail = ({title, description, stock, price}) => {
+const ItemDetail = () => {
+
     return (
-        <div class="card">
-            <h1>{title}</h1>
-            <p>{description}</p>
-            <h2>{stock}</h2>
-            <h2>{price}</h2>
-        </div>
-    );
+
+        <>
+            <div class="card">
+                <img className="img" src={image} alt="..."/>
+                <div class="card-body">
+                    <h5 class="card-title"><b>Nombre</b></h5>
+                    <h6>Precio</h6>
+                </div>
+            </div>
+        </>
+    ); 
 }
 
 export default ItemDetail;
+
+
+
+
+
+
