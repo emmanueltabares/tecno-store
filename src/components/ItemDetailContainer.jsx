@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from "react";
 import ItemDetail from "./ItemDetail";
+import ItemCount from "./ItemCount";
 
 const ItemDetailContainer = () => {
 
-    const [detail, setDetails] = useState(null)
-
     return (
-
-        <ItemDetail />
+        <>
+            <ItemDetail  />
+            <ItemCount />
+        </>
     );
 }
 

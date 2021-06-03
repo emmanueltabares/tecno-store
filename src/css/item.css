@@ -1,0 +1,17 @@
+.div-cards {
+    text-align: center;
+}
+
+.card {
+    width: 18em;
+    display: inline-block;
+    margin: 0.9375em;
+}
+
+.card-body {
+    padding: 0.3125em;
+}
+
+.card-price {
+    font-size: 1.56rem;
+}
