@@ -22,7 +22,7 @@ export default function ItemList() {
   
       catId
         ? getItems.then(res => {
-            setProducts(res.filter(i => i.productos.category === catId));
+            setProducts(res.filter(i => i.category === catId));
             setLoader(false);
           })
         : getItems.then(res => {

@@ -4,6 +4,7 @@
 
 .card {
     width: 18em;
+    height: 35em;
     display: inline-block;
     margin: 0.9375em;
 }
@@ -14,4 +15,9 @@
 
 .card-price {
     font-size: 1.56rem;
+}
+
+img {
+    width: 200px;
+    height: 200px;
 }

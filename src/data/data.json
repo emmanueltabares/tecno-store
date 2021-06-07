@@ -3,75 +3,129 @@
 
         "id": 1,
         "title": "Notebook Dell I5",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura.png",
+        "description": "Notebook Dell Latitude 3510 gris 15.6, Intel Core i5 10210U 8GB de RAM 1TB HDD, Intel HD Graphics 620 1366x768px Windows 10 Pro",
+        "picture": "Dell1.png",
         "stock": 5,
-        "price": "110.000",
+        "price": "130.499",
         "category": "computadoras"
     },
     {
         "id": 2,
-        "title": "Notebook Dell I7",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura.png",
+        "title": "Notebook Dell I5",
+        "description": "Notebook Dell Inspiron 5593 platinum silver 15.6, Intel Core i5 1035G1 8GB de RAM 256GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "picture": "Dell5.png",
         "stock": 10,
-        "price": "130.000",
+        "price": "141.989",
         "category": "computadoras"
     },
     {
         "id": 3,
-        "title": "Notebook Lenovo I3",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura1.png",
+        "title": "Notebook Lenovo I5",
+        "description": "Notebook Lenovo IdeaPad 14IIL05 platinum gray 14, Intel Core i5 1035G1 8GB de RAM 512GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "picture": "Lenovo1.png",
         "stock": 20,
-        "price": "125.000",
+        "price": "99.999",
         "category": "computadoras"
     },
     {
         "id": 4,
-        "title": "Notebook Lenovo I5",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura2.png",
+        "title": "Notebook HP I3",
+        "description": "Notebook HP 15-DY1024WM plata 15.6, Intel Core i3 1005G1 4GB de RAM 128GB SSD, Intel UHD Graphics 1366x768px Windows 10 Home",
+        "picture": "HP4.png",
         "stock": 8,
-        "price": "140.000",
+        "price": "77.400",
         "category": "computadoras"
     },
     {
 
         "id": 5,
-        "title": "Notebook Dell I5",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura.png",
+        "title": "Notebook Asus VivoBook I3",
+        "description": "Notebook Asus VivoBook R564JA slate gray 15.6, Intel Core i3 1005G1 4GB de RAM 128GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "picture": "AsusVivo1.png",
         "stock": 5,
-        "price": "110.000",
+        "price": "78.999",
         "category": "computadoras"
     },
     {
         "id": 6,
-        "title": "Notebook Dell I7",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura.png",
+        "title": "MacBook Air I5",
+        "description": "MacBook Air A1466 silver 13.3, Intel Core i5 5350U 8GB de RAM 128GB SSD, Intel HD Graphics 6000 1440x900px macOS Sierra 10",
+        "picture": "MacBook1.png",
         "stock": 10,
-        "price": "130.000",
+        "price": "154.999",
         "category": "computadoras"
     },
     {
         "id": 7,
-        "title": "Notebook Lenovo I3",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura1.png",
+        "title": "Notebook Asus n4020",
+        "description": "Notebook Asus N4020 64gb Ssd 4gb Windows 10 14 E410ma-211",
+        "picture": "Captura.png",
         "stock": 20,
-        "price": "125.000",
+        "price": "49.999",
         "category": "computadoras"
     },
     {
         "id": 8,
-        "title": "Notebook Lenovo I5",
-        "description": "lorem ipsum lorem ipsum",
-        "picture": "Captura2.png",
-        "stock": 8,
-        "price": "140.000",
-        "category": "computadoras"
+        "title": "Xiaomi Redmi Note 10",
+        "description": "Xiaomi Redmi Note 10 Dual SIM 128 GB gris ónix 6 GB RAM",
+        "picture": "RedmiNote10Copia.png",
+        "stock": 20,
+        "price": "54.999",
+        "category": "celulares"
+    },
+    {
+        "id": 9,
+        "title": "Samsung Galaxy S20 FE",
+        "description": "Samsung Galaxy S20 FE 128 GB cloud navy 6 GB RAM",
+        "picture": "GalaxyS20FE.png",
+        "stock": 20,
+        "price": "81.999",
+        "category": "celulares"
+    },
+    {
+        "id": 10,
+        "title": "Motorola G9 Power",
+        "description": "Moto G9 Power 128 GB morado sónico 4 GB RAM",
+        "picture": "MotorolaG9.png",
+        "stock": 20,
+        "price": "35.999",
+        "category": "celulares"
+    },
+    {
+        "id": 11,
+        "title": "Samsung Galaxy A21s",
+        "description": "Samsung Galaxy A21s 64 GB negro 4 GB RAM",
+        "picture": "GalaxyA21s.png",
+        "stock": 20,
+        "price": "35.499",
+        "category": "celulares"
+    },
+    {
+        "id": 12,
+        "title": "Samsung Galaxy A51",
+        "description": "Samsung Galaxy A51 128 GB prism crush black 4 GB RAM",
+        "picture": "GalaxyA51.png",
+        "stock": 20,
+        "price": "47.999",
+        "category": "celulares"
+    },
+    {
+        "id": 13,
+        "title": "Samsung Galaxy A72",
+        "description": "Samsung Galaxy A72 128 GB awesome black 6 GB RAM",
+        "picture": "GalaxyA72.png",
+        "stock": 20,
+        "price": "71.999",
+        "category": "celulares"
+    },
+    {
+        "id": 14,
+        "title": "Motorola Edge",
+        "description": "Motorola Edge 128 GB gris midnight 6 GB RAM",
+        "picture": "MotorolaEdgeCopia.png",
+        "stock": 20,
+        "price": "74.999",
+        "category": "celulares"
     }
     ]
 }

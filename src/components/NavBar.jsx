@@ -5,9 +5,9 @@ import { NavLink } from "react-router-dom";
 
 const categories = [
   { adress: "/", text: "Home" },
-  { adress: "/categories/computadoras", text: "Computadoras" },
-  { adress: "/categories/celulares", text: "Celulares" },
-  { adress: "/categories/audio", text: "Audio"}
+  { adress: "/category/computadoras", text: "Computadoras" },
+  { adress: "/category/celulares", text: "Celulares" },
+  { adress: "/category/audio", text: "Audio"}
 ]; 
 
 const NavBar = () => {
