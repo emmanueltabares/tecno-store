@@ -11,6 +11,7 @@
 
 .card-body {
     padding: 0.3125em;
+    height: max-content;
 }
 
 .card-price {
@@ -18,6 +19,11 @@
 }
 
 img {
+    padding: 30px;
     width: 200px;
     height: 200px;
+}
+
+.card-body .d-block {
+    height: 16.875rem;
 }

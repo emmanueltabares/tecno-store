@@ -3,7 +3,7 @@
 
         "id": 1,
         "title": "Notebook Dell I5",
-        "description": "Notebook Dell Latitude 3510 gris 15.6, Intel Core i5 10210U 8GB de RAM 1TB HDD, Intel HD Graphics 620 1366x768px Windows 10 Pro",
+        "description": "Notebook Dell Latitude 3510 gris 15.6, Intel Core i5 10210U 8GB de RAM 1TB HDD, Intel HD Graphics 620 1366x768px Windows 10 Home Pro",
         "picture": "Dell1.png",
         "stock": 5,
         "price": "130.499",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "title": "Notebook Dell I5",
-        "description": "Notebook Dell Inspiron 5593 platinum silver 15.6, Intel Core i5 1035G1 8GB de RAM 256GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "description": "Notebook Dell Inspiron 5593 platinum silver 15.6, Intel Core i5 1035G1 8GB de RAM 256GB SSD, Intel UHD Graphics 1920x1080px Windows 10",
         "picture": "Dell5.png",
         "stock": 10,
         "price": "141.989",
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "title": "Notebook Lenovo I5",
-        "description": "Notebook Lenovo IdeaPad 14IIL05 platinum gray 14, Intel Core i5 1035G1 8GB de RAM 512GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "description": "Notebook Lenovo IdeaPad 14IIL05 platinum gray 14, Intel Core i5 1035G1 8GB de RAM 512GB SSD, Intel UHD Graphics 1920x1080px Windows 10",
         "picture": "Lenovo1.png",
         "stock": 20,
         "price": "99.999",
@@ -40,7 +40,7 @@
 
         "id": 5,
         "title": "Notebook Asus VivoBook I3",
-        "description": "Notebook Asus VivoBook R564JA slate gray 15.6, Intel Core i3 1005G1 4GB de RAM 128GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Home",
+        "description": "Notebook Asus VivoBook R564JA slate gray 15.6, Intel Core i3 1005G1",
         "picture": "AsusVivo1.png",
         "stock": 5,
         "price": "78.999",
@@ -49,7 +49,7 @@
     {
         "id": 6,
         "title": "MacBook Air I5",
-        "description": "MacBook Air A1466 silver 13.3, Intel Core i5 5350U 8GB de RAM 128GB SSD, Intel HD Graphics 6000 1440x900px macOS Sierra 10",
+        "description": "MacBook Air A1466 silver 13.3, Intel Core i5 5350U 8GB de RAM 128GB",
         "picture": "MacBook1.png",
         "stock": 10,
         "price": "154.999",
@@ -68,7 +68,7 @@
         "id": 8,
         "title": "Xiaomi Redmi Note 10",
         "description": "Xiaomi Redmi Note 10 Dual SIM 128 GB gris ónix 6 GB RAM",
-        "picture": "RedmiNote10Copia.png",
+        "picture": "RedmiNote10.png",
         "stock": 20,
         "price": "54.999",
         "category": "celulares"
@@ -77,7 +77,7 @@
         "id": 9,
         "title": "Samsung Galaxy S20 FE",
         "description": "Samsung Galaxy S20 FE 128 GB cloud navy 6 GB RAM",
-        "picture": "GalaxyS20FE.png",
+        "picture": "GalaxyS20FE.jpg",
         "stock": 20,
         "price": "81.999",
         "category": "celulares"
@@ -86,7 +86,7 @@
         "id": 10,
         "title": "Motorola G9 Power",
         "description": "Moto G9 Power 128 GB morado sónico 4 GB RAM",
-        "picture": "MotorolaG9.png",
+        "picture": "MotoG9Power.jpg",
         "stock": 20,
         "price": "35.999",
         "category": "celulares"
@@ -104,7 +104,7 @@
         "id": 12,
         "title": "Samsung Galaxy A51",
         "description": "Samsung Galaxy A51 128 GB prism crush black 4 GB RAM",
-        "picture": "GalaxyA51.png",
+        "picture": "GalaxyA51.jpg",
         "stock": 20,
         "price": "47.999",
         "category": "celulares"
@@ -122,7 +122,7 @@
         "id": 14,
         "title": "Motorola Edge",
         "description": "Motorola Edge 128 GB gris midnight 6 GB RAM",
-        "picture": "MotorolaEdgeCopia.png",
+        "picture": "MotorolaEdge.png",
         "stock": 20,
         "price": "74.999",
         "category": "celulares"

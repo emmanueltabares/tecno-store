@@ -1,18 +1,21 @@
 import React from "react";
 import "../css/itemDetail.css";
 
-const ItemDetail = () => {
+const ItemDetail = ( {products} ) => {
 
     return (
 
         <>
-            <div class="card">
-                <img className="img" alt="..."/>
-                <div class="card-body">
-                    <h5 class="card-title"><b>Nombre</b></h5>
-                    <h6>Precio</h6>
+            {products.map(item => (
+                <div class="card" key={item.id}>
+                    <img className="img" alt="..."/>
+                    <div class="card-body">
+                        <h5 class="card-title"><b>{item.title}</b></h5>
+                        <h6>{item.description}</h6>
+                    </div>
                 </div>
-            </div>
+                    )
+                )} 
         </>
     ); 
 }
