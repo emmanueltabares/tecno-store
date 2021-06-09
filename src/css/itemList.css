@@ -3,15 +3,14 @@
 }
 
 .card {
-    width: 18em;
-    height: 35em;
+    max-width: 18.75rem;
     display: inline-block;
     margin: 0.9375em;
 }
 
 .card-body {
+    width: 300px;
     padding: 0.3125em;
-    height: max-content;
 }
 
 .card-price {
@@ -19,11 +18,11 @@
 }
 
 img {
-    padding: 30px;
-    width: 200px;
-    height: 200px;
+    padding: 1.875rem;
+    width: 12.5rem;
+    height: 12.5rem;
 }
 
 .card-body .d-block {
-    height: 16.875rem;
+    height: 16.875em;
 }

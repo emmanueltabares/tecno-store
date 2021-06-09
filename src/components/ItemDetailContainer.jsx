@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useParams } from "react";
+import React, { useState, useEffect } from "react";
+import { useParams } from "react-router-dom"
 import ItemDetail from "./ItemDetail";
-import ItemCount from "./ItemCount";
 import data from "../data/data.json"
 
 const ItemDetailContainer = () => {
@@ -39,7 +39,7 @@ const ItemDetailContainer = () => {
                 </div>
                 <p>Cargando...</p>
             </div>}
-            {!loader && <ItemDetail products={products} /> &&  <ItemCount />}
+            {!loader && <ItemDetail products={products} />}
         </>
     );
 }

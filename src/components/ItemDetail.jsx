@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/itemDetail.css";
 
-const ItemDetail = ( {products} ) => {
+const ItemDetail = ({ products }) => {
 
     return (
 
