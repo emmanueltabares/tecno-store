@@ -4,7 +4,7 @@
         "id": "01",
         "title": "Notebook Dell I5",
         "description": "Notebook Dell Latitude 3510 gris 15.6, Intel Core i5 10210U 8GB de RAM 1TB HDD, Intel HD Graphics 620 1366x768px Windows 10 Home Pro",
-        "picture": "Dell1.png",
+        "picture": "../images/Dell1.png",
         "stock": 5,
         "price": "130.499",
         "category": "computadoras"
@@ -13,7 +13,7 @@
         "id": "02",
         "title": "Notebook Dell I5",
         "description": "Notebook Dell Inspiron 5593 platinum silver 15.6, Intel Core i5 1035G1 8GB de RAM 256GB SSD, Intel UHD Graphics 1920x1080px Windows 10",
-        "picture": "Dell5.png",
+        "picture": "../images/Dell5.png",
         "stock": 10,
         "price": "141.989",
         "category": "computadoras"
@@ -22,7 +22,7 @@
         "id": "03",
         "title": "Notebook Lenovo I5",
         "description": "Notebook Lenovo IdeaPad 14IIL05 platinum gray 14, Intel Core i5 1035G1 8GB de RAM 512GB SSD, Intel UHD Graphics 1920x1080px Windows 10",
-        "picture": "Lenovo1.png",
+        "picture": "../images/Lenovo1.png",
         "stock": 20,
         "price": "99.999",
         "category": "computadoras"
@@ -31,7 +31,7 @@
         "id": "04",
         "title": "Notebook HP I3",
         "description": "Notebook HP 15-DY1024WM plata 15.6, Intel Core i3 1005G1 4GB de RAM 128GB SSD, Intel UHD Graphics 1366x768px Windows 10 Home",
-        "picture": "HP4.png",
+        "picture": "../images/HP4.png",
         "stock": 8,
         "price": "77.400",
         "category": "computadoras"
@@ -41,7 +41,7 @@
         "id": "05",
         "title": "Notebook Asus VivoBook I3",
         "description": "Notebook Asus VivoBook R564JA slate gray 15.6, Intel Core i3 1005G1",
-        "picture": "AsusVivo1.png",
+        "picture": "../images/AsusVivo1.png",
         "stock": 5,
         "price": "78.999",
         "category": "computadoras"
@@ -50,7 +50,7 @@
         "id": "06",
         "title": "MacBook Air I5",
         "description": "MacBook Air A1466 silver 13.3, Intel Core i5 5350U 8GB de RAM 128GB",
-        "picture": "MacBook1.png",
+        "picture": "../images/MacBook1.png",
         "stock": 10,
         "price": "154.999",
         "category": "computadoras"
@@ -59,7 +59,7 @@
         "id": "07",
         "title": "Notebook Asus n4020",
         "description": "Notebook Asus N4020 64gb Ssd 4gb Windows 10 14 E410ma-211",
-        "picture": "Captura.png",
+        "picture": "../images/Captura.png",
         "stock": 20,
         "price": "49.999",
         "category": "computadoras"
@@ -68,7 +68,7 @@
         "id": "08",
         "title": "Xiaomi Redmi Note 10",
         "description": "Xiaomi Redmi Note 10 Dual SIM 128 GB gris ónix 6 GB RAM",
-        "picture": "RedmiNote10.png",
+        "picture": "../images/RedmiNote10.png",
         "stock": 20,
         "price": "54.999",
         "category": "celulares"
@@ -77,7 +77,7 @@
         "id": "09",
         "title": "Samsung Galaxy S20 FE",
         "description": "Samsung Galaxy S20 FE 128 GB cloud navy 6 GB RAM",
-        "picture": "GalaxyS20FE.jpg",
+        "picture": "../images/GalaxyS20FE.jpg",
         "stock": 20,
         "price": "81.999",
         "category": "celulares"
@@ -86,7 +86,7 @@
         "id": "10",
         "title": "Motorola G9 Power",
         "description": "Moto G9 Power 128 GB morado sónico 4 GB RAM",
-        "picture": "MotoG9Power.jpg",
+        "picture": "../images/MotoG9Power.jpg",
         "stock": 20,
         "price": "35.999",
         "category": "celulares"
@@ -95,7 +95,7 @@
         "id": "11",
         "title": "Samsung Galaxy A21s",
         "description": "Samsung Galaxy A21s 64 GB negro 4 GB RAM",
-        "picture": "GalaxyA21s.png",
+        "picture": "../images/GalaxyA21s.png",
         "stock": 20,
         "price": "35.499",
         "category": "celulares"
@@ -104,7 +104,7 @@
         "id": "12",
         "title": "Samsung Galaxy A51",
         "description": "Samsung Galaxy A51 128 GB prism crush black 4 GB RAM",
-        "picture": "GalaxyA51.jpg",
+        "picture": "../images/GalaxyA51.jpg",
         "stock": 20,
         "price": "47.999",
         "category": "celulares"
@@ -113,7 +113,7 @@
         "id": "13",
         "title": "Samsung Galaxy A72",
         "description": "Samsung Galaxy A72 128 GB awesome black 6 GB RAM",
-        "picture": "GalaxyA72.png",
+        "picture": "../images/GalaxyA72.png",
         "stock": 20,
         "price": "71.999",
         "category": "celulares"
@@ -122,10 +122,46 @@
         "id": "14",
         "title": "Motorola Edge",
         "description": "Motorola Edge 128 GB gris midnight 6 GB RAM",
-        "picture": "MotorolaEdge.png",
+        "picture": "../images/MotorolaEdge.png",
         "stock": 20,
         "price": "74.999",
         "category": "celulares"
+    },
+    {
+        "id": "15",
+        "title": "Parlante Tedge Bluetooth",
+        "description": "Parlante Tedge Bluetooth 10W portátil negra 110V/200V",
+        "picture": "../images/ParlanteTedge.png",
+        "stock": 20,
+        "price": "3.499",
+        "category": "audio"
+    },
+    {
+        "id": "16",
+        "title": "Parlante Thonet & Vander Vertrag BT",
+        "description": "Parlante Thonet & Vander Vertrag BT con bluetooth white 100V/220V",
+        "picture": "../images/ParlanteThonet.png",
+        "stock": 20,
+        "price": "26.000",
+        "category": "audio"
+    },
+    {
+        "id": "17",
+        "title": "Minicomponente Sony MHC-V02",
+        "description": "Minicomponente Sony MHC-V02 negro con bluetooth 120V/240V",
+        "picture": "../images/MinicomponenteSony.png",
+        "stock": 20,
+        "price": "40.500",
+        "category": "audio"
+    },
+    {
+        "id": "18",
+        "title": "Auriculares inalámbricos Sony WH-CH510 negro",
+        "description": "Auriculares inalámbricos Sony WH-CH510 negro",
+        "picture": "../images/AuricularesSony.png",
+        "stock": 20,
+        "price": "4.499",
+        "category": "audio"
     }
     ]
 }

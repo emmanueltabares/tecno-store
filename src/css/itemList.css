@@ -3,13 +3,13 @@
 }
 
 .card {
-    max-width: 18.75rem;
+    max-width: 280px;
     display: inline-block;
     margin: 0.9375em;
 }
 
 .card-body {
-    width: 300px;
+    width: 280px;
     padding: 0.3125em;
 }
 
