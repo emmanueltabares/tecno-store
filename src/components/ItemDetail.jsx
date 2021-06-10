@@ -4,7 +4,7 @@ import "../css/itemDetail.css";
 
 const onAdd = (value) => {
     console.log(`Agregar al carrito ${value} Notebooks`);
-  }
+}
 
 const ItemDetail = ({ products }) => {
 
@@ -20,7 +20,7 @@ const ItemDetail = ({ products }) => {
                             <h6>{item.description}</h6>
                         </div>
                     </div> 
-                    <ItemCount stock={item.stock} initial="1" onAdd={onAdd} />
+                    <ItemCount stock={item.stock} title={item.title} initial="1" onAdd={onAdd} />
                 </>
                     )
                 )} 
