@@ -2,8 +2,9 @@ import React from "react";
 import ItemCount from "./ItemCount";
 import "../css/itemDetail.css";
 
-const onAdd = (value) => {
+const onAdd = (value, setButton) => {
     console.log(`Agregar al carrito ${value} Notebooks`);
+    setButton("Finalizar Compra");
 }
 
 const ItemDetail = ({ products }) => {

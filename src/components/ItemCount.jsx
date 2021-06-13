@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from 'react';
+import { CartProvider } from "../contexts/CartContext";
 import "../css/itemCount.css";
 
 const ItemCount = ({title, stock, initial, onAdd}) => {
@@ -13,12 +14,6 @@ const ItemCount = ({title, stock, initial, onAdd}) => {
         } else {
             setCounter(counter + value)
         }
-
-    }
-
-    const handleChange = (e) => {
-        console.log(e.target.value);
-        setButton("Finalizar compra");
     }
 
   return (
@@ -29,12 +24,14 @@ const ItemCount = ({title, stock, initial, onAdd}) => {
                 <h6>Stock: {stock}</h6>
                 <div className="item-body">
                     <label htmlFor="item-count">
-                        <input onChange={handleChange} className="input-counter" value={counter} />
+                        <input className="input-counter" value={counter} />
                         <button class="btn btn-light btn-count" onClick={() => changeCounter(-1)}> - </button>
                         <button class="btn btn-light btn-count" onClick={() => changeCounter(1)}> + </button>
                     </label>
                 </div>
-                <button class="btn btn-light btn-on-add" onClick={() => onAdd(counter)}>{button}</button>
+                <CartProvider>
+                    <button class="btn btn-light btn-on-add" onClick={() => onAdd(counter, setButton)}>{button}</button>
+                </CartProvider>
             </div>
         </div>
     </>
