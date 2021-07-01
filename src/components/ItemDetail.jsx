@@ -2,10 +2,6 @@ import React from "react";
 import ItemCount from "./ItemCount";
 import "../css/itemDetail.css";
 
-const onAdd = (value, setButton) => {
-    console.log(`Agregar al carrito ${value} Notebooks`);
-    setButton("Finalizar Compra");
-}
 
 const ItemDetail = ({ products }) => {
 
@@ -16,12 +12,13 @@ const ItemDetail = ({ products }) => {
                 <>
                     <div class="card" key={item.id}>
                         <img className="img" src={item.picture} alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title"><b>{item.title}</b></h5>
+                        <div className="card-body">
+                            <h5 className="card-title"><b>{item.title}</b></h5>
                             <h6>{item.description}</h6>
+                            <p className="card-price">${item.price}</p>
                         </div>
                     </div> 
-                    <ItemCount stock={item.stock} title={item.title} initial="1" onAdd={onAdd} />
+                    <ItemCount stock={item.stock} title={item.title} initial="1" picture={item.picture} price={item.price} />
                 </>
                     )
                 )} 

@@ -1,12 +1,16 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useState } from 'react';
-import { CartProvider } from "../contexts/CartContext";
+import { useCart } from "../contexts/CartContext";
+import { NavLink } from "react-router-dom";
+
 import "../css/itemCount.css";
 
-const ItemCount = ({title, stock, initial, onAdd}) => {
+const ItemCount = ({title, stock, picture, price, initial}) => {
 
     const [counter, setCounter] = useState(parseInt(initial));
-    const [button, setButton] = useState("Agregar al carrito");
+    const cart = useCart()
+
+    console.log(cart)
 
     const changeCounter = (value) => {
         if((counter + value) < parseInt(initial) || (counter + value) > parseInt(stock)) {
@@ -16,22 +20,28 @@ const ItemCount = ({title, stock, initial, onAdd}) => {
         }
     }
 
+    const addToCart = (title, picture, price, counter) => {
+        console.log(title)
+        cart.addItem({title, picture, price, counter})
+    }
+
   return (
     <>
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title"><b>{title}</b></h5>
+        <div className="card">
+            <div className="card-body">
+                <h5 className="card-title"><b>{title}</b></h5>
                 <h6>Stock: {stock}</h6>
                 <div className="item-body">
                     <label htmlFor="item-count">
                         <input className="input-counter" value={counter} />
-                        <button class="btn btn-light btn-count" onClick={() => changeCounter(-1)}> - </button>
-                        <button class="btn btn-light btn-count" onClick={() => changeCounter(1)}> + </button>
+                        <button className="btn btn-light btn-count" onClick={() => changeCounter(-1)}> - </button>
+                        <button className="btn btn-light btn-count" onClick={() => changeCounter(1)}> + </button>
                     </label>
                 </div>
-                <CartProvider>
-                    <button class="btn btn-light btn-on-add" onClick={() => onAdd(counter, setButton)}>{button}</button>
-                </CartProvider>
+                    <button className="btn btn-light btn-on-add" onClick={() => addToCart(title, picture, price, counter)}>Agregar al carrito</button>
+                    <NavLink to={"/Cart"}>
+                        <button className="btn btn-light btn-on-add">Finalizar compra</button>
+                    </NavLink>
             </div>
         </div>
     </>

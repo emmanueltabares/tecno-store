@@ -9,13 +9,13 @@ export default function ItemList({ products }) {
     <div className="div-cards">
         {products.map(item => (
          
-        <div class="card" key={item.id}>
+        <div className="card" key={item.id}>
             
-          <div class="card-body">
+          <div className="card-body">
               <img src={item.picture} class="d-block w-100" alt="" />
-              <h5 class="card-title">{item.title}</h5>
-              <p class="card-text">{item.description}</p>
-              <p class="card-price">${item.price}</p>
+              <h5 className="card-title">{item.title}</h5>
+              <p className="card-text">{item.description}</p>
+              <p className="card-price">${item.price}</p>
               <NavLink to={`/item/${item.id}`}>
                 <a href="#" className="btn btn-primary mb-3">Ver detalle</a>
               </NavLink>
